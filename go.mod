@@ -1,7 +1,7 @@
 // +heroku goVersion 1.15
 // +heroku install ./cmd/uptermd/...
 
-module github.com/vmodiga/upterm
+module github.com/owenthereal/upterm
 
 go 1.15
 
